@@ -1,284 +1,55 @@
-[
-  {
-    "name": "Button-text",
-    "key": "1c0bf3f4549d8e718febc258a93bba0e557d2b89",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Strong",
-    "key": "3b0ba38b619ff238afc8e6117634d214879991fb",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Main",
-    "key": "f0c570025fa948c32b079c03f0bee0576f82156c",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Second",
-    "key": "401552a48badfb64c05d371fcd737ca2718613a3",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Input",
-    "key": "9cb4215dd6252e97ea0d3bb137e9900908a71753",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg",
-    "key": "56e1d16643dd899cf3dec8f44921a6f1d78c975c",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg-hover",
-    "key": "0e080d4b9078e1e8cd35556141bf515d436c475a",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bottom",
-    "key": "720e9f98fc3a14ea4f793628735367c2e8d4e39b",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line",
-    "key": "92bdb4df67165a860e018477c7c3aad82b434659",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line2",
-    "key": "51a6da24439a0631b0ac073174135a8bcf97057b",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Mask",
-    "key": "845f9d8772f1336ba371d0585e9d8a83427a967a",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "TipMask",
-    "key": "358420faa60197d1b06d8d7f43e452abf239fd2c",
-    "theme": "Light",
-    "type": "PAINT"
-  },
-  {
-    "name": "Button-text",
-    "key": "45a6afdc49c23fc934fdca434123ec713f57612b",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Strong",
-    "key": "9301ff60da5b650056da3e9dea0f56372b4629f4",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Main",
-    "key": "da4d086166587954dc5dde2da65c807366bba4f9",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Second",
-    "key": "5c3802f35d9f05564c5836e28824902da4afd212",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Input",
-    "key": "aa57d8c44004980347e0539e7af3ea774354db97",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg",
-    "key": "e2f5d3dd0b16060f2b3a580d97ab0e4a97abc6aa",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg-hover",
-    "key": "91eee9b83ffd752b0c520cdcb23086011e51a584",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bottom",
-    "key": "f60907d31662c437605608dff32e7b28297cc193",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line",
-    "key": "7c9afcd5225a971f82889f57bf59784349edd1a6",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line2",
-    "key": "26e40c3891235a5484e2c4ce9917d6b7edc35504",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Mask",
-    "key": "92b2664c839164226d12e52913497a6532835128",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "TipMask",
-    "key": "2873ba48b484949149a79f111f61ecb6b89cab6c",
-    "theme": "Dark",
-    "type": "PAINT"
-  },
-  {
-    "name": "Button-text",
-    "key": "c8ca6ca042719136942ef7ac40c6284f9e0bf948",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Strong",
-    "key": "144316614345294763deb3d834f5556914c4ba16",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Main",
-    "key": "f07476ea98d81492a02444b07e19344abab604eb",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Second",
-    "key": "91e20f2feca8d493061fc94e173e5c6b97d92017",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Input",
-    "key": "334fc7302295bc6c13ec55ffc6b0764ea933d3f1",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg",
-    "key": "c5a69d71c643d9fc89a5cce0113c6685791f4d3e",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bg-hover",
-    "key": "e7ad45317071ef54bd7c70d2047c8740d5cd8998",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bottom",
-    "key": "ec03e81a9506bae169e75aef4ceae5016d0ad0b2",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line",
-    "key": "05587c5fdc030b8efa26b8b7ad0991fcec0aec35",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Line2",
-    "key": "1fd9b7ac7ec4fc2f138ea19456780453256bccae",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Mask",
-    "key": "0fae10a8af42db1b8d415b0b5e2afea5f25aca13",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "TipMask",
-    "key": "0aeea5bfa90288f6d9351cf5e24bbbf4f223036f",
-    "theme": "Dim",
-    "type": "PAINT"
-  },
-  {
-    "name": "Yellow",
-    "key": "fc912ec4d15288c6640698616d2e5e62379e996b",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Red",
-    "key": "104004ea2a1682843ac8326a33e932e16ac14ee1",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Purple",
-    "key": "445c48520483d190107c34c8cfcbe21968efbb39",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Orange",
-    "key": "3d1f672a19ddded0b865abb0abc74bcf3b534f91",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Green",
-    "key": "efd5dc2896fa2fad6cfd234c855a21c91ab7a14c",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Blue",
-    "key": "7d317050f6ecdc7ada309ac3a9c9a11df9559487",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "Error",
-    "key": "83211bc18a116a5237d029aa03444e3f7e83670f",
-    "theme": "Twitter",
-    "type": "PAINT"
-  },
-  {
-    "name": "bg",
-    "key": "a46169a619af5024616ba372762582bdfc3e35bf",
-    "theme": "Pooltogether",
-    "type": "PAINT"
-  },
-  {
-    "name": "blue",
-    "key": "fd915721a2aa52d87a65d705377ed1182f1bd8d6",
-    "theme": "Pooltogether",
-    "type": "PAINT"
-  },
-  {
-    "name": "Bule",
-    "key": "92e46741e7e1ace783f235d0cd7731a05f184e3a",
-    "theme": "Mask",
-    "type": "PAINT"
-  },
-  {
-    "name": "nft",
-    "key": "557ff1fadd7aa608edd98403c8cc090e5d35070e",
-    "theme": "Mask",
-    "type": "PAINT"
-  }
-]
+
+
+
+light
+
+ 
+   Button-text:{color:#FFFFFF;},
+   Strong:{ color:#111418;},
+   Main:{color: #0F1419;},
+   Second:{color: #536471;},
+   Input:{background: #EDF1F2;},
+   Bg:{background: #F6F8F8;},
+   Bg-hover:{background: #EDEFEF;},
+   Bottom:{background: #FFFFFF;},
+   Line:{background: #EFF3F4;},
+   Line2:{background: #CFD9DE;},
+   Mask:{background: rgba(0, 0, 0, 0.4);},
+   TipMask:{background: rgba(0, 0, 0, 0.85);},
+   MessageShadows{box-shadow: 0px 0px 16px 0px rgba(101, 119, 134, 0.2);},
+
+
+
+dark
+
+   Button-text:{color:#0F1419;},
+   Strong:{color: #EFF3F4;},
+   Main:{color: #D9D9D9;},
+   Second:{color:#6E767D;},
+   Input:{background: #1D2023;},
+   Bg:{background: #15171A;},
+   Bg-hover:{background: #1A1D20;},
+   Bottom:{background: #000000;},
+   Line:{background: #2F3336;},
+   Line2:{background: #2F3336;},
+   Mask:{background: rgba(91, 112, 131, 0.4);},
+   TipMask:{background: rgba(255, 255, 255, 0.85);},
+   MessageShadows{box-shadow: 0px 0px 16px 0px rgba(255, 255, 255, 0.2);},
+
+
+ 
+Dim
+
+   Button-text:{color:#0F1419;},
+   Strong:{color: #EFF3F4;},
+   Main:{color: #FFFFFF;},
+   Second:{color:#8899A6;},
+   Input:{background: #212D39;},
+   Bg:{background: #18232E;},
+   Bg-hover:{background: #1D2933;},
+   Bottom:{background: #151D26;},
+   Line:{background: #38444D;},
+   Line2:{background: #38444D;},
+   Mask:{background: rgba(91, 112, 131, 0.4);},
+   TipMask:{background: rgba(255, 255, 255, 0.85);},
+   MessageShadows{box-shadow: 0px 0px 16px 0px rgba(136, 153, 166, 0.2);
